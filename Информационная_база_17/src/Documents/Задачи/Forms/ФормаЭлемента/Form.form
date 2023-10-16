@@ -7237,7 +7237,7 @@
       <autoMaxHeight>true</autoMaxHeight>
       <placementArea>UserCmds</placementArea>
       <picture xsi:type="core:PictureRef">
-        <picture>CommonPicture.Пауза</picture>
+        <picture>CommonPicture.Подменю</picture>
       </picture>
       <representationInContextMenu>Auto</representationInContextMenu>
     </items>
@@ -7614,7 +7614,7 @@
       <type>Popup</type>
       <extInfo xsi:type="form:PopupGroupExtInfo">
         <picture xsi:type="core:PictureRef">
-          <picture>StdPicture.CreateListItem</picture>
+          <picture>StdPicture.BusinessProcessStart</picture>
         </picture>
         <representation>Auto</representation>
       </extInfo>
